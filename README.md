@@ -37,4 +37,4 @@ React.js, MongoDB, Node.js, Express, Tailwind
 * 🖼️ **Chỉnh sửa ảnh bìa và ảnh đại diện**
 * 📷 **Tải ảnh lên bằng Cloudinary**
 * 🔔 **Gửi thông báo**
-*🌐 **Triển khai ứng dụng**
+* 🌐 **Triển khai ứng dụng**
